@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adachuks
-- 👀 I’m interested in ... learning softwarentesting
-- 🌱 I’m currently learning ... learning softwarentesting
+- 👀 I’m interested in ... learning software testing
+- 🌱 I’m currently learning ... learning software testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
