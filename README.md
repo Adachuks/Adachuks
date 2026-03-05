@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Adachuks
-- 👀 I’m interested in ... learning software testing
-- 🌱 I’m currently learning ... learning software testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Adaeze 👋
 
-<!---
-Adachuks/Adachuks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+QA Engineer with 3+ years of experience testing fintech web and mobile applications.
+
+🔎 Specialties:
+• API Testing (Postman, Newman)
+• Playwright Automation (JavaScript)
+• Manual & Exploratory Testing
+• Mobile Testing (Android & iOS)
+
+💼 Experience:
+Fintech product testing across microservices, payment systems, and mobile apps.
+
+📌 Featured Projects
+• Playwright E-commerce Automation Framework
+• API Automation with Postman + Newman
+
